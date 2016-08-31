@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1062247005493",
+    "firebase_url": "https://fcmsample-1cfe8.firebaseio.com",
+    "project_id": "fcmsample-1cfe8",
+    "storage_bucket": "fcmsample-1cfe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062247005493:android:079a1030265df289",
+        "android_client_info": {
+          "package_name": "dnay2k.com.fcm_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062247005493-4ms36ajr8g1hmi51c1q3ubg4jit7kd0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgaKawOtxOGDMfFSRmgcKiMxB3U6SzPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
